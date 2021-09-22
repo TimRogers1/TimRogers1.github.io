@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TimRogers1.github.io/static/css/main.4c76fb5e.chunk.css",
+    "main.js": "/TimRogers1.github.io/static/js/main.371ffab4.chunk.js",
+    "main.js.map": "/TimRogers1.github.io/static/js/main.371ffab4.chunk.js.map",
+    "runtime-main.js": "/TimRogers1.github.io/static/js/runtime-main.4bcbf3ca.js",
+    "runtime-main.js.map": "/TimRogers1.github.io/static/js/runtime-main.4bcbf3ca.js.map",
+    "static/js/2.6bcee573.chunk.js": "/TimRogers1.github.io/static/js/2.6bcee573.chunk.js",
+    "static/js/2.6bcee573.chunk.js.map": "/TimRogers1.github.io/static/js/2.6bcee573.chunk.js.map",
+    "index.html": "/TimRogers1.github.io/index.html",
+    "static/css/main.4c76fb5e.chunk.css.map": "/TimRogers1.github.io/static/css/main.4c76fb5e.chunk.css.map",
+    "static/js/2.6bcee573.chunk.js.LICENSE.txt": "/TimRogers1.github.io/static/js/2.6bcee573.chunk.js.LICENSE.txt",
+    "static/media/me.cb04cea3.jpeg": "/TimRogers1.github.io/static/media/me.cb04cea3.jpeg",
+    "static/media/pic.b954a1fd.jpeg": "/TimRogers1.github.io/static/media/pic.b954a1fd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bcbf3ca.js",
+    "static/js/2.6bcee573.chunk.js",
+    "static/css/main.4c76fb5e.chunk.css",
+    "static/js/main.371ffab4.chunk.js"
+  ]
+}
